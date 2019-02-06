@@ -1,0 +1,43 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication6;
+
+/**
+ *
+ * @author 697090
+ */
+public class JavaApplication6 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+    
+class JavaApplication7{
+         String TeamName;
+         int NumberOfWins;
+         int ShotsOnTarget;
+     
+}
+class TeamA extends JavaApplication6 {
+    Player Kabir =new Player ();
+      }
+
+class TeamB extends JavaApplication6{
+}
+
+class Player{
+    String PlayerName;
+    int SeasonScore;
+    int CareerScore;
+    int RunningSpeed;
+    int ScoringRank;
+    
+}
+    
+}
